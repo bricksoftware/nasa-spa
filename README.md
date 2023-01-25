@@ -1,22 +1,22 @@
 # Nasa Collection
 
-Single Page Aplicattion usando React + Typescript
+Single Page Aplicattion using React + Typescript
 
-## Descrição
+## Description
 
-Simples Spa que utiliza a api da nasa para pesquisar imagens e videos
+Simple Spa that uses the nasa api to search images and videos
 
 
-### Dependencias utilizadas
+### Used Packages
 
 * hooksy
 * semantic-ui-react
 * semantic-ui-css
 
-### Instalação
+### Installation
 
 * git clone https://github.com/malltapps/nasa-spa.git
-* yarn ou npm i
+* yarn or npm i
 
 ### Demo
 
